@@ -14,13 +14,13 @@ Tenho competência tanto em testes manuais, gerenciando testes exploratórios e 
 ### 🌀 Experiência em Ambientes Agile: 
 Trabalho em ambientes Agile dinâmicos, sempre com foco na excelência operacional e na satisfação do cliente. Minha paixão por tecnologia e inovação me impulsiona a buscar constantemente novas maneiras de melhorar processos e entregar resultados superiores.
 
-![Andriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolandi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolandi&layout=compact&theme=radical)
-
-
 #### Entre em Contato
 
 E-mail: anditoazza@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/andriano-toazza/)
+
+![Andriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolandi&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolandi&layout=compact&theme=radical)
+
+
+

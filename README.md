@@ -18,7 +18,7 @@ Trabalho em ambientes Agile dinâmicos, sempre com foco na excelência operacion
 
 E-mail: anditoazza@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/andriano-toazza/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriano-toazza)
 
 ---
 

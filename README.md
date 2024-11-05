@@ -23,9 +23,9 @@ E-mail: anditoazza@gmail.com
 ---
 
 
-![Andriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolandi&show_icons=true&theme=radical) 
+![Andriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=toazzaandi&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolandi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toazzaandi&layout=compact&theme=radical)
 
 
 

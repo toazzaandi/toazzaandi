@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 ### 🔍 QA Engineer
-Atuo na área de Quality Assurance (QA) em software há 2 anos, com especialização em automação de testes para aplicações web e APIs. Utilizo ferramentas como Cypress, Playwright e Selenium para assegurar a mais alta qualidade em projetos de software.
+Atuo na área de Quality Assurance (QA) em software há 3 anos, com especialização em automação de testes para aplicações web e APIs. Utilizo ferramentas como Cypress, Playwright e Selenium para assegurar a mais alta qualidade em projetos de software.
 
 ### 🎓 Estudante de Ciência da Computação: 
 Atualmente cursando Bacharelado em Ciência da Computação, aprimorando minha base técnica, especialmente em linguagens como Javascript, Typescript e Java. Sou adepto das metodologias TDD e BDD com Cucumber, focando na excelência e na robustez do código.
